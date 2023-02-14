@@ -1,0 +1,15 @@
+D:\Documents\VSCode\Delegates\bin\Debug\net6.0\Delegates.exe
+D:\Documents\VSCode\Delegates\bin\Debug\net6.0\Delegates.deps.json
+D:\Documents\VSCode\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+D:\Documents\VSCode\Delegates\bin\Debug\net6.0\Delegates.dll
+D:\Documents\VSCode\Delegates\bin\Debug\net6.0\Delegates.pdb
+D:\Documents\VSCode\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+D:\Documents\VSCode\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSCode\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+D:\Documents\VSCode\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+D:\Documents\VSCode\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+D:\Documents\VSCode\Delegates\obj\Debug\net6.0\Delegates.dll
+D:\Documents\VSCode\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+D:\Documents\VSCode\Delegates\obj\Debug\net6.0\Delegates.pdb
+D:\Documents\VSCode\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+D:\Documents\VSCode\Delegates\obj\Debug\net6.0\ref\Delegates.dll
